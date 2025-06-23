@@ -1,2 +1,7 @@
-# tsugi-AMI-launch
-Launch the African Management Institute (AMI) page for a particular site and user.
+
+AMI Iframe
+-------------------
+
+Request for African Management Institute (AMI) integration with Vula
+
+Based on https://github.com/tsugitools/iframe
